@@ -1,4 +1,3 @@
-plugins/shell/fish.py pylint:ansible-bad-import-from
 tests/unit/mock/procenv.py pylint:ansible-bad-import-from
 tests/unit/mock/yaml_helper.py pylint:ansible-bad-import-from
 tests/unit/modules/conftest.py pylint:ansible-bad-import-from
